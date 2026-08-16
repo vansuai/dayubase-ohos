@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 - 2025-08-16
+
+### 修正
+- 更新 `repository` 元数据为实际仓库地址 `https://github.com/vansuai/dayubase-ohos`
+
 ## 1.0.0 - 2025-08-16
 
 ### 首次发布
