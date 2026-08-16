@@ -1,0 +1,2 @@
+# DayuBase OHOS SDK consumer rules
+# No additional consumer rules required.

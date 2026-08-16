@@ -1,0 +1,2 @@
+# DayuBase OHOS SDK obfuscation rules
+# Obfuscation is disabled for this library; add rules here if you enable it later.

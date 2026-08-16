@@ -1,0 +1,20 @@
+{
+  "name": "dayubase-ohos",
+  "version": "1.0.0",
+  "description": "DayuBase BaaS HarmonyOS SDK (ArkTS) — auth, database CRUD, custom API, project/app management and file upload for HarmonyOS NEXT apps.",
+  "main": "Index.ets",
+  "author": "DayuBase <dayubase@elitern.cn>",
+  "repository": "https://github.com/vansuai/dayubase-ohos",
+  "license": "Apache-2.0",
+  "keywords": [
+    "baas",
+    "dayubase",
+    "harmonyos",
+    "harmony",
+    "arkts",
+    "ohos",
+    "backend-as-a-service"
+  ],
+  "dependencies": {
+  }
+}

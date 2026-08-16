@@ -1,0 +1,20 @@
+# hvigor / ohpm build artifacts
+/build/
+/.hvigor/
+/.hvigor-home/
+/.npm-cache/
+/oh_modules/
+**/oh_modules/
+**/build/
+**/BuildProfile.ets
+/.idea/
+local.properties
+node_modules/
+package-lock.json
+
+# test artifacts
+tests/node_modules/
+tests/coverage/
+
+# OS
+.DS_Store

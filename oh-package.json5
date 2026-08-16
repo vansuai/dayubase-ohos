@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.2",
+  "description": "DayuBase BaaS HarmonyOS SDK (dayubase-ohos) — auth, database CRUD, custom API, project/app management and file upload for HarmonyOS NEXT apps.",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dayubase-ohos-tests",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pure-logic unit tests for dayubase-ohos (runs the .ets sources under Node with mocked @kit modules)",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "vitest": "^3.2.4"
+  }
+}
